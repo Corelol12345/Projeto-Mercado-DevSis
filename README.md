@@ -5,4 +5,4 @@ Aplicar as melhores práticas da modelagem UML em todas as etapas do ciclo de vi
 Trabalhar em equipe de forma colaborativa e eficiente para alcançar os objetivos do projeto.
 Comunicar-se de forma clara e eficaz com o cliente, a equipe e outras partes interessadas
 
-Será feito um projeto de um Mercado Online
+Será feito um projeto de um Mercado Online com a finalidade de gerar mais conveniencia para os compradores.
